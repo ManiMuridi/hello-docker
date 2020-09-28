@@ -1,6 +1,6 @@
 # hello-docker
 
-This is the source code for [A Concise Docker Quick Start Guide for Beginners: Part One](https://blog.manimuridi.com/2020/09/22/the-docker-quickstart-survival-guide-part-one/)
+This is the source code for [A Concise Docker Quick Start Guide for Beginners: Part One](https://blog.manimuridi.com/2020/09/28/a-concise-docker-quick-start-guide-for-beginners-part-one/)
 
 1. Clone the project (git clone https://github.com/ManiMuridi/hello-docker.git)
 2. cd hello-docker
